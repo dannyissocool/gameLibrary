@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+}
+
+.game-list {
+  margin: 100px;
+}
+
+.game-div {
+  min-height: 250px;
+}
+
+.game-title:hover,
+.game-title:active {
+  color: lime;
+}
+
+#rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-image {
+  max-height: 100px;
+  object-fit: contain;
+
+  img {
+    border: 1px solid white;
+  }
+}
+
+@media (max-width: 1150px) {
+  .background-image {
+    max-height: 150px;
+  }
+}
