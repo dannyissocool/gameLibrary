@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gameLibrary/static/css/main.6123d7f0.chunk.css",
+    "main.js": "/gameLibrary/static/js/main.609ad7b7.chunk.js",
+    "main.js.map": "/gameLibrary/static/js/main.609ad7b7.chunk.js.map",
+    "runtime-main.js": "/gameLibrary/static/js/runtime-main.f9fd1a67.js",
+    "runtime-main.js.map": "/gameLibrary/static/js/runtime-main.f9fd1a67.js.map",
+    "static/css/2.f80ff026.chunk.css": "/gameLibrary/static/css/2.f80ff026.chunk.css",
+    "static/js/2.816046f7.chunk.js": "/gameLibrary/static/js/2.816046f7.chunk.js",
+    "static/js/2.816046f7.chunk.js.map": "/gameLibrary/static/js/2.816046f7.chunk.js.map",
+    "index.html": "/gameLibrary/index.html",
+    "static/css/2.f80ff026.chunk.css.map": "/gameLibrary/static/css/2.f80ff026.chunk.css.map",
+    "static/css/main.6123d7f0.chunk.css.map": "/gameLibrary/static/css/main.6123d7f0.chunk.css.map",
+    "static/js/2.816046f7.chunk.js.LICENSE.txt": "/gameLibrary/static/js/2.816046f7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gameLibrary/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9fd1a67.js",
+    "static/css/2.f80ff026.chunk.css",
+    "static/js/2.816046f7.chunk.js",
+    "static/css/main.6123d7f0.chunk.css",
+    "static/js/main.609ad7b7.chunk.js"
+  ]
+}
